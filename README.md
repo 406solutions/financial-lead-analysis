@@ -11,7 +11,7 @@ Clone this repository using the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/yourproject.git
+git clone  https://github.com/406solutions/financial-lead-analysis.git)
 
 
 Navigate to the cloned repository and run the install_libraries.sh script to install the required libraries:
